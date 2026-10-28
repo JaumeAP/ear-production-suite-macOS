@@ -1,9 +1,9 @@
 [submodule "submodules/libadm"]
 	path = submodules/libadm
-	url = https://github.com/ebu/libadm.git
+	url = https://github.com/JaumeAP/libadm.git
 [submodule "submodules/libbw64"]
 	path = submodules/libbw64
-	url = https://github.com/ebu/libbw64.git
+	url = https://github.com/JaumeAP/libbw64.git
 # Not required - BEAR will pull a version in
 # [submodule "submodules/libear"]
 # 	path = submodules/libear
